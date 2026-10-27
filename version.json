@@ -1,16 +1,16 @@
-{
+﻿{
   "latestVersion": "2.0.26",
   "versionCode": 226,
   "buildHash": "9945eb0a2e50",
   "releaseDate": "2026-10-27",
-  "downloadUrl": "https://github.com/paradisanime/paradis/releases/download/v2.0.26/paradis-v2.0.26.apk",
-  "apkUrl": "https://github.com/paradisanime/paradis/releases/download/v2.0.26/paradis-v2.0.26.apk",
-  "releaseNotesUrl": "https://raw.githubusercontent.com/paradisanime/paradis/main/CHANGELOG.md",
+  "downloadUrl": "https://github.com/arnabpluxury/paradis-releases/releases/download/v2.0.26/paradis-v2.0.26.apk",
+  "apkUrl": "https://github.com/arnabpluxury/paradis-releases/releases/download/v2.0.26/paradis-v2.0.26.apk",
+  "releaseNotesUrl": "https://raw.githubusercontent.com/arnabpluxury/paradis-releases/main/CHANGELOG.md",
   "minRequired": "2.0.0",
   "forceUpdate": false,
   "size": "~79.8 MB",
   "releaseNotes": [
-    "SUB | DUB badges from live source pages — no more fake Subtitled-only labels",
+    "SUB | DUB badges from live source pages â€” no more fake Subtitled-only labels",
     "Season picker uses real scraper episode lists, not estimated counts",
     "Episode likes, comment votes, and reactions save to the database with live updates",
     "Title Community tab for series talk; player Discuss stays on the episode thread",
@@ -24,3 +24,4 @@
     "sha256": "88d4382631ed8cfa53330c2dfd7154e0bff2434e0d82dea74adf80ee3a4fadcd"
   }
 }
+
