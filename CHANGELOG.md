@@ -17,13 +17,13 @@ Versioning follows SemVer for `latestVersion` and a monotonic integer for `versi
 
 ---
 
-## [2.0.26] - 2026-10-27
+## [2.0.26] - 2026-10-28
 
 ```
   versionCode ...... 226
-  buildHash ........ 9945eb0a2e50
+  buildHash ........ d207dd7bdef9
   size ............. ~79.8 MB
-  sha256 ........... 88d4382631ed8cfa53330c2dfd7154e0bff2434e0d82dea74adf80ee3a4fadcd
+  sha256 ........... 72ed67729a16bb0a1979e067836ccf9e2e924297c5983eee9ce012e9cf60b37f
 
   Added
   ..... Live SUB | DUB badges from source catalog pages
@@ -39,11 +39,14 @@ Versioning follows SemVer for `latestVersion` and a monotonic integer for `versi
   ....... Adaptive text scaling capped to reduce oversized-font layout glitches
   ....... API host: https://api.synerstudio.net.in (metadata/scraper only — no video proxy)
   ....... Chromecast play-services pinned to 21.5.0 / MediaRouter 1.8.1 for compileSdk 36
+  ....... Event + update popups only after sign-in (never on login/register)
 
   Fixed
   ..... Episode like counts persist correctly to the database
   ..... Comment likes no longer stay as local-only state
   ..... EAS Android cloud build path issues (Windows autolinking cache + Cast dependency clash)
+  ..... Trending event modal taps (close / CTA) frozen inside Android Modal
+  ..... Green same-version patch dialog looping after Later / while already current
 ```
 
 ---

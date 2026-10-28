@@ -1,8 +1,8 @@
 {
   "latestVersion": "2.0.26",
   "versionCode": 226,
-  "buildHash": "9945eb0a2e50",
-  "releaseDate": "2026-10-27",
+  "buildHash": "d207dd7bdef9",
+  "releaseDate": "2026-10-28",
   "downloadUrl": "https://github.com/arnabpluxury/paradis-releases/releases/download/v2.0.26/paradis-v2.0.26.apk",
   "apkUrl": "https://github.com/arnabpluxury/paradis-releases/releases/download/v2.0.26/paradis-v2.0.26.apk",
   "releaseNotesUrl": "https://raw.githubusercontent.com/arnabpluxury/paradis-releases/main/CHANGELOG.md",
@@ -10,17 +10,17 @@
   "forceUpdate": false,
   "size": "~79.8 MB",
   "releaseNotes": [
+    "Patch: trending popup only after login; buttons close/open reliably",
+    "Patch: same-version update dialog no longer loops when already current",
     "SUB | DUB badges from live source pages — no more fake Subtitled-only labels",
     "Season picker uses real scraper episode lists, not estimated counts",
     "Episode likes, comment votes, and reactions save to the database with live updates",
     "Title Community tab for series talk; player Discuss stays on the episode thread",
     "Smoother sheets and presses; less glass blur; safer text scaling on large fonts",
-    "More stream fallbacks (aniwaves + mirrors); API stays off the video path",
-    "Profile: username, accent color, longer bio; daily trending push + in-app event",
-    "New API host api.synerstudio.net.in; Chromecast libs pinned for SDK 36 builds"
+    "More stream fallbacks (aniwaves + mirrors); API stays off the video path"
   ],
   "checksum": {
-    "md5": "83c9d7890f02a8760dbfe7bde67c6f09",
-    "sha256": "88d4382631ed8cfa53330c2dfd7154e0bff2434e0d82dea74adf80ee3a4fadcd"
+    "md5": "a667ab2434779b7c29a8a0f0739fc492",
+    "sha256": "72ed67729a16bb0a1979e067836ccf9e2e924297c5983eee9ce012e9cf60b37f"
   }
 }
